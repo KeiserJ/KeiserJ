@@ -1,4 +1,4 @@
-# Hi, I'm Haochuan(Keiser)! 
+# Hola, I'm Haochuan(Keiser)! 
 
 I am currently an Undergraduate student in Statistics specialist program @ University of Toronto with a minor in Economics. Feel free to connect with me!
 
