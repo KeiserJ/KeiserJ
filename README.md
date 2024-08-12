@@ -1,6 +1,6 @@
 # Hola, I'm Haochuan(Keiser)! 
 
-I am currently an Undergraduate student in Statistics specialist program @ University of Toronto with a minor in Economics. Feel free to connect with me!
+I am currently an Stats Undergraduate student @ University of Toronto with a minor in Economics. Feel free to connect with me!
 
 ## Github Stats
 ![KeiserJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeiserJ&show_icons=true&theme=dark)
